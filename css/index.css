@@ -1403,7 +1403,7 @@ body {
   background: var(--global-bg);
   color: var(--font-color);
   font-size: var(--global-font-size);
-  font-family: consolas, "宋体", sans-serif;
+  font-family: canger;
   line-height: 2;
   -webkit-tap-highlight-color: rgba(0,0,0,0);
   -webkit-user-select: none;
